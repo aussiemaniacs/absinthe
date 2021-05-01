@@ -24,9 +24,3 @@
   <fanart>https://image.tmdb.org/t/p/w1280/vbY95t58MDArtyUXUIb8Fx1dCry.jpg</fanart>
 </item>
 
-<plugin>
-<title>Search</title>
-<link>plugin://plugin.video.absinthe/search</link>
-<thumbnail>https://archive.org/download/script.metalgearsolid-6.7.7/torrent.png</thumbnail>
-<fanart>https://archive.org/download/script.metalgearsolid-6.7.7/M37TGZ.jpg</fanart>
-</plugin>
