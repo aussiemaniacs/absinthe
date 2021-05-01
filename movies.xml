@@ -18,10 +18,15 @@
   </meta>
   <link>
   <sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=ofkcLgzNZGM&feature=youtu.be (Play Trailer)</sublink>
-  <sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.absinthe/movie/1726/links/</sublink>
-  <sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.absinthe/search?q=Iron%20Man</sublink>
-  <sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.absinthe/movies/play/tmdb/1726?usedefault=True</sublink>
+  <sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.absinthe/search</sublink>
   </link>
   <thumbnail>https://image.tmdb.org/t/p/w1280/78lPtwv72eTNqFW9COBYI0dWDJa.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/w1280/vbY95t58MDArtyUXUIb8Fx1dCry.jpg</fanart>
 </item>
+
+<plugin>
+<title>Search</title>
+<link>plugin://plugin.video.absinthe/search</link>
+<thumbnail>https://archive.org/download/script.metalgearsolid-6.7.7/torrent.png</thumbnail>
+<fanart>https://archive.org/download/script.metalgearsolid-6.7.7/M37TGZ.jpg</fanart>
+</plugin>
