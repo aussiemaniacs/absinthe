@@ -17,8 +17,8 @@
   <year>2008</year>
   </meta>
   <link>
-  <sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=ofkcLgzNZGM&feature=youtu.be (Play Trailer)</sublink>
-  <sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.absinthe/search</sublink>
+  <sublink> name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=ofkcLgzNZGM&feature=youtu.be (Play Trailer)</sublink>
+  <sublink> name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.absinthe/search</sublink>
   </link>
   <thumbnail>https://image.tmdb.org/t/p/w1280/78lPtwv72eTNqFW9COBYI0dWDJa.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/w1280/vbY95t58MDArtyUXUIb8Fx1dCry.jpg</fanart>
