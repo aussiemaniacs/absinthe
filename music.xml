@@ -1,0 +1,13 @@
+<dir>
+	<name>Concerts</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Music Videos</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20videos.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
