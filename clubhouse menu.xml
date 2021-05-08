@@ -33,7 +33,19 @@
    <fanart>https://natgeo.imgix.net/factsheets/thumbnails/01-marijuana-farming.adapt.1900.1.jpg?auto=compress,format&w=1024&h=560&fit=crop</fanart>
 </dir>
 
+<dir>
+	<name>Youtube Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/youtube%20movie%20menu.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
 
+<dir>
+	<name>Concerts</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
 
 
 
