@@ -1,13 +1,27 @@
 <dir>
 	<name>4.20 Cluhouse</name>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/absinthe/main/clubhouse%20menu.xml</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/420%20icon.png</thumbnail>
 	<fanart></fanart>
 </dir>
 
 <dir>
 	<name>Music</name>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/absinthe/main/music.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name></name>
+	<link></link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Music</name>
+	<link></link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </dir>
