@@ -44,3 +44,10 @@
    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkUvVFsl_YtCt8xrFWX2-NpctG385tYZknjupVA1wJq41prOI&s</thumbnail>
    <fanart>https://natgeo.imgix.net/factsheets/thumbnails/01-marijuana-farming.adapt.1900.1.jpg?auto=compress,format&w=1024&h=560&fit=crop</fanart>
    </dir>
+
+<dir>
+	<name>Clubhouse Music</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20directory.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/6_h75JXBnSo/maxresdefault.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
