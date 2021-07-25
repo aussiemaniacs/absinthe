@@ -1,35 +1,46 @@
-<dir>
+<item>
+   <title>Welcome to the 4.20 Clubhouse, Everything 4 the Stoners</title>
+   <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/icon.png?raw=true</thumbnail>
+   <fanart>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/fanart.jpg?raw=true</fanart>
+</item>
+	
+  <dir>
    <name>Cheech and Chong</name>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Ccmovies.xml</link>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/ccmenu.xml</link>
    <thumbnail>https://2trlab2tfeld3rfxhw3mhy79-wpengine.netdna-ssl.com/wp-content/uploads/51olnxWBHqL-1.jpg</thumbnail
   <fanart>https://tv.mediasearch.verizon.com/ResourcesFiles/ImageLibrary/FiosTV/UnBranded/H/169_Lrg/TVNNBCUFILMHD.COM_TVNH0012791401200511.jpg</fanart>
-</dir>
-
-<dir>
+  </dir>
+	
+  <dir>
    <name>Monty Python</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/monty%20python.xml</link>
    <thumbnail>https://m.media-amazon.com/images/I/71zVMFyW-FL._SS500_.jpg</thumbnail>
    <fanart>https://images6.alphacoders.com/341/thumb-1920-341198.jpg</fanart>
-</dir>
-
-<dir>
+  </dir>
+	
+  <dir>
    <name>Stoner Movies</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/stoner%20movies.xml</link>
-   <thumbnail>https://i1.sndcdn.com/artworks-000032187146-geatfq-t500x500.jpg</thumbnail>
-   <fanart>https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/ed214b2f-3557-48d6-ac9b-ecfefd463207/thumbnail/1200x630/8993d15d6901738e3dd25f2c423b5c8a/pineapple-express-james-franco-seth-rogen-columbia-660.jpg</fanart>
-</dir>
+   <thumbnail>https://i1.sndcdn.com/artworks-000032187146-geatfq-t500x500.jpg</thumbnail>   <fanart>https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/ed214b2f-3557-48d6-ac9b-ecfefd463207/thumbnail/1200x630/8993d15d6901738e3dd25f2c423b5c8a/pineapple-express-james-franco-seth-rogen-columbia-660.jpg</fanart>
+  </dir>
+	
+  <dir>
+   <name>Stoner TV Shows</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv%20clickers.xml</link>
+   <thumbnail>https://m.media-amazon.com/images/I/71BN89PDSkL._SS500_.jpg</thumbnail>
+   <fanart>https://images.amcnetworks.com/ifc.com/wp-content/uploads/2015/11/That-70s-Show-Stoner-Wisdom.jpg</fanart>
+  </dir>
 
-<dir>
+   <dir>
    <name>Stoner Recipes</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/weed%20recipes.xml</link>
    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/513rtdxagPL.jpg</thumbnail>
    <fanart>https://static1.squarespace.com/static/5541baefe4b0d1854a60b4bc/5541bb17e4b006d7e513e4de/5b82ee4d88251bb51ff62593/1535308070727/Edibles_Cookbook_Sneakpeek.jpg?format=1000w</fanart>
-</dir>
+   </dir>
 
-<dir>
+   <dir>
    <name>Growers</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/growers.xml</link>
    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkUvVFsl_YtCt8xrFWX2-NpctG385tYZknjupVA1wJq41prOI&s</thumbnail>
    <fanart>https://natgeo.imgix.net/factsheets/thumbnails/01-marijuana-farming.adapt.1900.1.jpg?auto=compress,format&w=1024&h=560&fit=crop</fanart>
-</dir>
-
+   </dir>
